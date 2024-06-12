@@ -50,3 +50,12 @@ Or you can use the prepared installation file ``tuto-env.yml`` to create a conda
 - Dig into your folder to reach your working directory
 - Open up the Notebook BW2_tutorial_perso_ecoinvent.ipynb
 - Best practice: when over, go in File/Shut down to properly turn off the server. (or you can also Ctrl + C in the console to force it to stop)
+
+
+## License
+
+This work © 2024 by Téo Lavisse is licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/).
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">
+  <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" />
+</a>
