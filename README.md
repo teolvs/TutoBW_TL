@@ -25,7 +25,7 @@ All the following libraries are required to run this notebook:
 - jupyter >= 4.0.11
 - pandas >= 2.2.2
 - numpy >= 1.26.4
-- seaborn >= 0.12.2
+- seaborn >= 0.13.0
  and a valid license of ecoinvent 3.9.1 database.
 ```
 
